@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kenkel206
-- 👀 I’m interested in anything
-- 🌱 I’m currently learning HTML & CSS
+- 👀 I’m interested in Racket
+- 🌱 I’m currently learning Racket
 - 💞️ I’m looking to collaborate on Nothing
 
 <!---
