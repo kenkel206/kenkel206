@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kenkel206
 - 👀 I’m interested in Racket
 - 🌱 I’m currently learning Racket
-- 💞️ I’m looking to collaborate on Nothing
+- 💞️ I’m looking to collaborate on applications,games,utilites.
 
 <!---
 kenkel206/kenkel206 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
