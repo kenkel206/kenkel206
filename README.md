@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kenkel206
+- 👋 Hi, I’m Kenda
 - 👀 I’m interested in java
 - 🌱 I’m currently learning java,JavaScript, Lua
 - 💞️ I’m looking to collaborate on applications,games,utilites.
