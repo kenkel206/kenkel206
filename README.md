@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kenda
-- 👀 I’m interested in java
-- 🌱 I’m currently learning java,JavaScript
-- 💞️ I’m looking to collaborate on applications,games,utilites.
+- 👀 I’m interested in Web development
+- 🌱 I’m currently learning C#,Bash
+- 💞️ I’m looking to collaborate on applications,games,Websites.
 
 <!---
 kenkel206/kenkel206 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
